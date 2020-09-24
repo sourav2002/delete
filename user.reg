@@ -1,6 +1,6 @@
 WINE REGISTRY Version 2
 ;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
-
+ 
 #arch=win64
 
 [AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1600524059
